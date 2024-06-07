@@ -1,0 +1,115 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&family=Honk&family=Monoton&family=Playfair+Display+SC:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&family=Protest+Revolution&family=Tangerine:wght@400;700&display=swap');
+
+body { 
+   text-align: center;
+   background:  linear-gradient(125deg, rgb(14, 50, 104) , rgb(71, 11, 71));
+}
+
+
+.B1 {
+    padding: 5px;
+    margin-right: 65%;
+    border-width: 6px;
+    border-color: brown;
+    border-style: double;
+    border-radius: 10px;
+    font-size: 80px;
+    font-family: "Fredericka the Great", serif;
+    font-weight: 400;
+    font-style: normal;
+      }
+
+.B2 {
+    padding: 5px;
+    margin-right: 82%;
+    border-width: 6px;
+    border-color: brown;
+    border-style: double;
+    border-radius: 10px;
+    font-size: 80px;
+    font-family: "Protest Revolution", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.B3{
+    padding: 5px;
+    margin-right: 83%;
+    border-width: 6px;
+    border-color: brown;
+    border-style: double;
+    border-radius: 10px;
+    font-size: 80px;
+    font-family: "Honk", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    }
+
+.B4{
+    padding: 5px;
+    margin-right: 75%;
+    border-width: 6px;
+    border-color: brown;
+    border-style: double;
+    border-radius: 10px;
+    font-size: 80px;
+    font-family: "Playfair Display SC", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.B5{ 
+    padding: 5px;
+    margin-right: 75%;
+    border-width: 6px;
+    border-color: brown;
+    border-style: double;
+    border-radius: 10px;
+    font-size: 80px;
+    font-family: "Monoton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.B6{
+    padding: 5px;
+    margin-right: 85%;
+    border-width: 6px;
+    border-color: brown;
+    border-style: double;
+    border-radius: 10px;
+    font-size: 80px;
+    font-weight: 400;
+    font-style: normal;       
+}
+
+.B7{
+    padding: 5px;
+    margin-right: 75%;
+    border-width: 6px;
+    border-color: brown;
+    border-style: double;
+    border-radius: 10px;
+    font-size: 80px;
+    font-family: "Fredericka the Great", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.B8{
+    padding: 5px;
+    margin-right: 75%;
+    border-width: 6px;
+    border-color: brown;
+    border-style: double;
+    border-radius: 10px;
+    font-size: 80px;
+    font-family: "Honk", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal; 
+}
+
+
